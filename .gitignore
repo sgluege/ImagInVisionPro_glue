@@ -1,3 +1,6 @@
+# own ignores
+mediar_v0/weights/ 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
